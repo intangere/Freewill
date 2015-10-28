@@ -19,3 +19,7 @@ I suppose you could do the same.<br><hr>
 Have any questions or disagree with the idea?<br>
 Then fork the project or find a way to contact me.<br>
 I'd be glad to talk about this.
+<hr>
+To configure this simply change the preferences {} dictionary.<br>
+4 and 4 means no preference. Changing the 4 to let's say 5<br>
+adds preference into the noise.
