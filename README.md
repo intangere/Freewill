@@ -2,10 +2,12 @@
 Freewill proof of concepts written in Python.
 <hr>
 The idea is an implementation of the studies here:
+
 ```
 http://www.livescience.com/46411-free-will-is-background-noise.html
 http://www.independent.co.uk/news/science/free-will-could-be-the-result-of-background-noise-in-the-brain-study-suggests-9553678.html
 ```
+
 We initialize an array with random numbers that act as brain noise.<br>
 This noise is constantly changing before a new decision is made<br>
 The idea is to factor preferences into brain noise to allow for<br>
